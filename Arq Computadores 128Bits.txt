@@ -1,4 +1,4 @@
--- Operem com Dados
+-- Operem com Dados 
 https://artsandculture.google.com/entity/256-bit-computing/m0lknrsj
 
 -- Placa de Vídeo - GPU
