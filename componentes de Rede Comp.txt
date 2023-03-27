@@ -1,0 +1,10 @@
+https://submarinecablemap.com
+
+placa de rede
+cabo
+hub
+switch
+modem
+roteador
+gateway
+backbone
